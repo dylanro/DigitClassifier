@@ -6,6 +6,8 @@ This project is a feed-forward neural network that takes in a dataset of 42,000 
 
 The toughest part of this project was finding the optimal hyperparameters (numbers that affect performance). A variation of epocs (total number of times the data is gone through) were tested and graphed to see when the network started to actually get worse from too much training.
 
+![alt text](https://github.com/dylanro/DigitClassifier/blob/master/chart.png)
+
 ### Most interesting piece of your code and explanation for what it does.
 
 ```Java
