@@ -1,6 +1,6 @@
 # Neural Network - Digit Classifier
 
-This project is a feed-forward neural network that takes in a dataset of 40,000 hand written digits and learns to differentiate between all of them. When presented with a never-before-seen example, the network uses it's trained weights to make an estimate as to what it thinks it is looking at. This is a classic example for getting into neural networks that allowed for a really good understanding of how neural networks work on a very fundamental level.
+This project is a feed-forward neural network that takes in a dataset of 42,000 hand written digits and learns to differentiate between all of them. When presented with a never-before-seen example, the network uses it's trained weights to make an estimate as to what it thinks it is looking at. This is a classic example for getting into neural networks that allowed for a really good understanding of how neural networks work on a very fundamental level.
 
 ### Difficulties or opportunities you encountered along the way.
 
